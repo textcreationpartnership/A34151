@@ -1,0 +1,519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comparatis comparandis, the second part, or, A parallel of the former, and later force, upon the two houses of Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34151</idno>
+            <idno type="STC">Wing C5603</idno>
+            <idno type="STC">ESTC R18892</idno>
+            <idno type="EEBO-CITATION">11751772</idno>
+            <idno type="OCLC">ocm 11751772</idno>
+            <idno type="VID">48597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comparatis comparandis, the second part, or, A parallel of the former, and later force, upon the two houses of Parliament</title>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A royalist attack jointly upon Parliament and the army.</note>
+                  <note>A pretended continuation of "Prima pars. De comparatis comparandis ..." by Amon Wilbee [pseud.?]; not to be confused with the true continuation "Secvnda pars, De comparatis comparandis ..."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48597:1"/>
+            <pb facs="tcp:48597:1" rendition="simple:additions"/>
+            <p>
+               <hi>Comparatis Comparandis:</hi> THE SECOND PART. OR, A PARALLELL of the former, and later Force, upon the two Houſes of Parliament.</p>
+            <q>
+               <hi>Out of thine owne mouth will I judge thee.</hi> 
+               <bibl>Luke 19. 22.</bibl>
+            </q>
+            <q>
+               <hi>Therefore art thou inexcuſable, oh Man, whomſoever thou art that judgeſt: for wherein thou judgeſt another, thou condemneſt thy ſelfe; for thou that judgeſt, doeſt the ſame things.</hi> 
+               <bibl>Rom. 2. 1.</bibl>
+            </q>
+            <q>
+               <hi>Terrena poteſtas caput Regem.</hi> 
+               <bibl>Hugo de Sanct. Vict. l. 3. de ſacr. p. 2. cap. 4.</bibl>
+            </q>
+            <q>
+               <hi>Regem in temporalibus neminem ſuperiorem recognoſcere.</hi> 
+               <bibl>Innocent. 3. cap. Novit.</bibl>
+            </q>
+            <q>
+               <hi>Neque enim pietatem ſubvertit iſta ſubjectio.</hi> 
+               <bibl>Chryſoſt.</bibl>
+            </q>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:48597:2"/>
+            <pb n="3" facs="tcp:48597:2"/>
+            <opener>
+               <salute>Reader:</salute>
+            </opener>
+            <p>
+               <hi>THis Treatiſe is ſpent wholly upon the tumults raiſed, and the</hi> Militia <hi>of the Kingdome controverted in this Parli<g ref="char:EOLhyphen"/>ament, and that thou maieſt the better judge of the following diſcourſe:</hi>
+            </p>
+            <p>
+               <hi>Firſt, conſider, what that Oracle of the Law hath delive<g ref="char:EOLhyphen"/>red concerning ſuch Tumults.</hi> By the Ancient Law and <note place="margin">Cooke 4. pats inſt it. l. 1. of the High Court of Par<g ref="char:EOLhyphen"/>liament.</note> Cuſtome of Parliament, a Proclamation ought to be made in Weſtminſter in the beginning of the Parlia<g ref="char:EOLhyphen"/>ment; that no man upon paine to loſe all that he hath, ſhould during the Parliament in London, Weſtminſter, or the Suburbs, &amp;c. weare any privy coate of Plate, or goe armed during the Parliament, <hi>and the reaſon hereof was that the high Court of Parliament ſhould not thereby be diſturbed, nor the Members thereof (which are to attend the arduous and urgent buſineſſe of the Church, and Common<g ref="char:EOLhyphen"/>wealth) ſhould be withdrawne.</hi>
+            </p>
+            <p>
+               <hi>Secondly, conſider what his Majeſty hath declared concer<g ref="char:EOLhyphen"/>ning</hi> 
+               <note place="margin">The Kings Dec. of July 1. 1642. Husb. Collect of Remon. and Orders. 398.</note> 
+               <hi>the Militia:</hi> The Kingdome of England in its Fun<g ref="char:EOLhyphen"/>damentall Policy (as well) for his owne aſſurance againſt the danger of forraine Invaſions, as the bad uſe that might be made of great conſtant Forces (whether Forraine or Native) is defended by it ſelfe; every man (according to his ability) providing armes, horſes, and men, for that purpoſe; and thoſe horſe, and armes ſo provided, being ſtill their owne proper goods, and remaining in the cuſto<g ref="char:EOLhyphen"/>dy of each man reſpectively: And theſe are the trained Bands, or the Militia of the Kingdome: <hi>The calling toge<g ref="char:EOLhyphen"/>ther of whom, and the training, exerciſing, and conducting of them, belongs to the King (as the ſupreame Governour)</hi>
+               <pb n="4" facs="tcp:48597:3"/> 
+               <hi>for maintaining the Lawes of the Land, and preſerving his owne juſt Rights and Prerogatives, and protecting the Sub<g ref="char:EOLhyphen"/>ject in matter of property, and liberty, whether againſt pri<g ref="char:EOLhyphen"/>vate injury or common oppresſion, or invaſion, and ſo for con<g ref="char:EOLhyphen"/>ſerving both the private and publick peace of the Kingdome.</hi>
+            </p>
+            <p>
+               <hi>Theſe things premiſed, I ſhall ſtay thee no longer in the Porch, but give thee leave to enter upon the diſcourſe it ſelfe, at pleaſure.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <p>THere was publiſhed not long ſince, a booke intituled, <hi>Prima Pars de Comparatis Com<g ref="char:EOLhyphen"/>parandis,</hi> or a parallell of the Kings go<g ref="char:EOLhyphen"/>vernment (as it is ſet ſorth in the Re<g ref="char:EOLhyphen"/>monſtrance <note place="margin">Husb. collect. by order of Parliament Remonſ. Page 3.</note> of Dec. 15. 1641) with the preſent Government of the two Houſes of Parliament, and in purſuance of that conception, is this <hi>Secunda Pars, &amp;c.</hi> Wherein I ſhall proceede to com<g ref="char:EOLhyphen"/>pare, and parallell the late force and violence of the Ar<g ref="char:EOLhyphen"/>my and City, upon the two Houſes, with the former tu<g ref="char:EOLhyphen"/>mults and outrages upon the King, and his Parliament, which followed immediately upon, and from that Re<g ref="char:EOLhyphen"/>monſtrance. The firſt occaſion of the tumults, was this:</p>
+            <p>A factious and ſeditious Party in Parliament, comply<g ref="char:EOLhyphen"/>ing <note place="margin">Husb. p. 521.</note> with the ſame Party in the City, brought in a Bill, to take away Biſhops, roote and branch.</p>
+            <p>And a ſeditious and traiterous Party, brought in ano<g ref="char:EOLhyphen"/>ther <note place="margin">Husb. pa. 530. 543. See Parall. 4. of this boke</note> Bill, to take the Militia by Sea, and Land, from the King, and to ſettle it in others.</p>
+            <p>Theſe Bills being rejected in a full, and free Conventi<g ref="char:EOLhyphen"/>on of Parliament, they reſolved to revive, and promote them by tumults, force, and violence; and to that end,
+<pb n="5" facs="tcp:48597:3"/> they declared in the Remonſtrance premiſed, that the Houſe of Commons had prepared divers good Bills, for a through reformation, both in Church and State; but they were hindred in the Houſe of Peeres, by the Bi<g ref="char:EOLhyphen"/>ſhops, <note place="margin">Husb. p. 18, 19.</note> and Popiſh Lords, their number and prevalency there. Heereupon the tumultuous people in and about <note place="margin">See paralel. 34</note> London (of their Party and Confederacy) reſort to Weſt<g ref="char:EOLhyphen"/>minſter with ſwords and clubs, crying no Biſhops, no Bi<g ref="char:EOLhyphen"/>ſhops, <note place="margin">Husb. p. 41. 42. and 533.</note> no Popiſh Lords. And they threatned to pull downe the Lodgings where divers of the Biſhops lay, and aſſaulted ſome in their Coaches, chaſed others with Boates by water, and layed violent hands on the Biſhop <note place="margin">See par. 30.</note> of Yorke in his paſſing to the Houſe; alſo they miſuſed ſeverall other Members of either Houſe, who they were <note place="margin">Husb. p. 533.</note> informed favoured not their deſperate and ſeditious ends; proclaiming the names of ſeverall of the Peeres, as evill and rotten hearted Lords, and aſſaulting, and evill intrea<g ref="char:EOLhyphen"/>ting ſome of the Members of the Houſe of Commons, <note place="margin">Husb. p. 531. See par. 30.</note> even at the doore of that Houſe, reſolving either to force <note place="margin">Husb. 531. 547.</note> their votes, or to hinder them from voting: And this was done at ſeverall times, and upon ſeverall occaſions, when any thing was likely to be carryed againſt them.</p>
+            <p>Whereupon the Houſe of Peeres twice very earneſtly <note place="margin">Husb. p. 531.</note> deſired the Houſe of Commons that they would for the dignity of Parliament joyne with them in a Declaration for ſuppreſſing ſuch Tumults; but inſtead thereof ſpee<g ref="char:EOLhyphen"/>ches <note place="margin">Husb. p. 532. See par. 37.</note> were made in juſtification of them. And afterwards when the Lords by the direction of the Judges had given <note place="margin">Husb. 532.</note> order to the Juſtices of the Peace, and other Officers a<g ref="char:EOLhyphen"/>bout Weſtminſter, to endeavour the ſuppreſſing of Tu<g ref="char:EOLhyphen"/>mults, one of the Juſtices for doing his duty therein was ſent to the Tower. <note place="margin">Juſtice Long.</note>
+            </p>
+            <pb n="6" facs="tcp:48597:4"/>
+            <p>And as that Remonſtrance inflamed the people againſt the Biſhops, and ſeverall members of both Houſes of Parliament: So did it incenſe and inrage them alſo a<g ref="char:EOLhyphen"/>gainſt the King, and his Government. And thoſe tumul<g ref="char:EOLhyphen"/>tuous Rioters utter traiterous ſpeeches againſt his Maje<g ref="char:EOLhyphen"/>ſtie, <note place="margin">Husb. 533.</note> as they paſſe along the ſtreets to Weſtminſter; and in their returne from thence they make a ſtand at White hall Gate, and ſay,</p>
+            <p>They will have no more Porters Lodges, but would ſpeak with the King when they pleaſed.</p>
+            <p>Heereupon his Majeſty, ſenſible of his owne, and the Parliaments great diſturbance and danger, by thoſe Tu<g ref="char:EOLhyphen"/>mults, <note place="margin">Husb. p. 30.</note> ſent a Meſſage to the Lord Mayor of London, re<g ref="char:EOLhyphen"/>quiring him for the time to come to take ſpeciall care for the preventing the like tumults, as far as in him lay; and when none of theſe courſes could prevaile; but the peo<g ref="char:EOLhyphen"/>ple grew more and more outragious and inſolent, his Ma<g ref="char:EOLhyphen"/>jeſty (well knowing who they were that firſt raiſed and invited the tumultuous people to Weſtminſter, and ſee<g ref="char:EOLhyphen"/>ing to what end they were raiſed, by force to compell the Parliament to order, limit, and diſpoſe their votes, and proceedings in ſuch manner as might beſt conduce to their factious and traiterous deſigns) exhibiteth Articles of high treaſon againſt the Lord <hi>Kimbolton,</hi> (now Earle <note place="margin">Husb. p. 34.</note> of <hi>Mancheſter)</hi> and againſt the five Members, Mr. <hi>Pim,</hi> Mr. <hi>Hampden,</hi> Mr. <hi>Hollis,</hi> Sr. <hi>Arthur Haſlerigge,</hi> and Mr. <hi>Stroode.</hi>
+            </p>
+            <p n="1">1. That they have traiterouſly endeavoured to ſub<g ref="char:EOLhyphen"/>vert the Fundamentall Lawes, and Government of this Kingdome, and to deprive the King of his Regall Power, <note place="margin">See par. 18.</note> and to place in Subjects an Arbitrary and Tyrannicall Power.</p>
+            <pb n="7" facs="tcp:48597:4"/>
+            <p n="2">2. That they have endeavoured by many falſe aſper<g ref="char:EOLhyphen"/>tions upon his Majeſty, and upon his Government, to a<g ref="char:EOLhyphen"/>lienate the affections of his people, and to make his Maje<g ref="char:EOLhyphen"/>ſty odious unto them.</p>
+            <p n="3">3. That they have traiterouſly endeavoured to ſubvert the Rights and very beings of Parliaments.</p>
+            <p n="4">4. That for the compleating of their traiterous de<g ref="char:EOLhyphen"/>ſignes they have endeavoured as far as in them lay, by <note place="margin">See par. 30.</note> force and terrour to compell the Parliament to joyne with them in their traiterous deſignes, and to that end have actually raiſed, and countenanced tumults againſt the King and Parliament.</p>
+            <p>And upon theſe Articles, his Majeſty expected, that ei<g ref="char:EOLhyphen"/>ther Houſe would have ſequeſtred its Members, and com<g ref="char:EOLhyphen"/>mitted them to ſafe cuſtody, that they might have beene brought to a legall and ſpeedy tryall.</p>
+            <p>But the Houſes did nothing leſſe, and the accuſed Members remove themſelves into the City, and as they not long before maintained the tumultuous Citizens a<g ref="char:EOLhyphen"/>gainſt the Lords; ſo thoſe Citizens maintaine the traite<g ref="char:EOLhyphen"/>rous Members againſt the King. And the Commoncoun<g ref="char:EOLhyphen"/>ſell <note place="margin">Husb. 537.</note> of London, now altered by undue practiſes, place unuſuall Watches, and Guards in the City, under the command of Sergiant Major Generall <hi>Skippon,</hi> (as is pretended) for the ſafety of the City, and protection of the Members: Nor ſo only, but <hi>(Ian.</hi> 11.) the trained <note place="margin">Husb. 538.</note> bands of London, and Weſtminſter, guard thoſe accu<g ref="char:EOLhyphen"/>ſed <note place="margin">See par. 32.</note> Members from their reſidence in the City in an ho<g ref="char:EOLhyphen"/>ſtile and warlicke manner to Weſtminſter, and neere one hundred Lighters, and long Boats were ſet out by water, laden with Sakers, and Murdering Pieces, and other Am<g ref="char:EOLhyphen"/>munition, dreſſed up with waſte cloathes and ſtreamers.
+<pb n="8" facs="tcp:48597:5"/> as ready to fight: And in this Array, the Marriners by water, and the Souldiers by Land, as they paſſe at White<g ref="char:EOLhyphen"/>hall, asked what was become of the King, where was hee</p>
+            <p>And now maugre his Majeſties accuſation of high treaſon, they take courage againe, and revive the matter of the Bill exhibited, for transferring the Kings Power by Sea and Land, into other hands; and the Houſe of Commons deſire the Lords to joyne with them in petiti<g ref="char:EOLhyphen"/>oning <note place="margin">Husb. 59.</note> his Majeſty, that the Militia of the Kingdome may be put into ſuch hands, as both Houſes did confide in; but it was twice carried Negatively, by the votes of much the major part of Lords: Hereupon <hi>(Ian.</hi> 31.) the poore people about London petitioned the Houſe of Commons <note place="margin">Husb. 548.</note> againſt, thoſe Lords, as Malignants and Diſturbers of their Peace, &amp; deſire to know their names, and threaten to remove them; and Mr. <hi>Hollis</hi> made a ſpeech to the Lords, <note place="margin">See par. 30. 36. 37</note> enforcing the Petition at a conference; Whereupon di<g ref="char:EOLhyphen"/>vers Lords being diſcontented went away, and the vote in order to the Militia paſſed, being at leaſt twice before rejected by double their number who conſented to it, when there was no Popiſh Lords preſent, and 12 Biſhops in the Tower. And ſince that time, they have been able <note place="margin">See par. 30.</note> to carry any thing upon the matter, the reſolution of the Houſe of Commons have been wholly guided by thoſe perſons, who had given ſo plaine evidence, that they had the Multitude at their command, and hath wholly guided the Houſe of Peeres, who have for the moſt part ſubmit<g ref="char:EOLhyphen"/>ted to whatſoever hath been brought to them.</p>
+            <p>Thus have I ſhewed the Riſe, progreſſe, and ſucceſſe of the tumults, in <hi>Decemb.</hi> and <hi>Ian.</hi> 1641: And now I ſhall compare them with the forcible practiſes of the City, and the Army upon the two Houſes in 1647. And
+<pb n="9" facs="tcp:48597:5"/> you ſhall ſee, how in this caſe the City chargeth the Ar<g ref="char:EOLhyphen"/>my in their Declaration of <hi>Iuly</hi> 31. And how the Army chargeth the City in their Remonſtrance of <hi>Auguſt</hi> 18. And how whilſt they accuſe one another of thoſe latter, they condemne themſelves of the former Tumults.</p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>A Parallell of divers Paſſages in the Cities Decla<g ref="char:EOLhyphen"/>ration of</hi> Iuly 31. 1947.</head>
+            <p>
+               <hi>Wee for our parts, ſhall not preſume to deliver any thing of</hi> 
+               <note place="margin">Parallel 1.</note> 
+               <hi>our ſence upon that which hath beene altered, acted, or conſen<g ref="char:EOLhyphen"/>ted unto by bosh Houſes, at the iuſtance, interpoſition, or im<g ref="char:EOLhyphen"/>portunity of the Army.</hi>
+            </p>
+            <p>You meane, the revocation of the Remonſtrance a<g ref="char:EOLhyphen"/>gainſt the Armies Petition; the continuance of the Ar<g ref="char:EOLhyphen"/>my under a ſetled pay, after their votes for disbanding it; the owning this Army for their owne, notwithſtanding their tumultuary proceedings; the putting of the Militia, and all forces of the Kingdome under Sir <hi>Thomas Faire<g ref="char:EOLhyphen"/>fax</hi> his command; after his and the Armies refuſall to be commanded by the Houſes, or to obey their votes: The removall, and diſpoſall of the Kings Perſon, as the Ar<g ref="char:EOLhyphen"/>my ſhall direct; the diſcountenancing, and diſperfing of thoſe Officers and Souldiers, who, in obedience to their votes deſerted the Army; the Declaration againſt the introducing of Forraine Forces; the Impeachment, Charge, and diſmiſſion of the eleaven Members, and the altering of the Militia of London.</p>
+            <p>And were not things in like manner altered, acted, or conſented unto by both Houſes, at the inſtance, interpo<g ref="char:EOLhyphen"/>ſition, or importunity, of the City formerly?</p>
+            <pb n="10" facs="tcp:48597:6"/>
+            <p>
+               <hi>Then you tell us particularly.</hi>
+            </p>
+            <p>
+               <hi>What violation the Priviledges of the Houſe of Commons ſuffered, when the eleaven accuſed Members were inforced</hi> 
+               <note place="margin">Par. 2.</note> 
+               <hi>by the Army to withdraw themſelves; after it was declared upon the Queſtion. That by the Lawes of the Land no judge<g ref="char:EOLhyphen"/>ment can be given to ſuſpend thoſe Members, nor any of them from ſitting in the Houſe upon the Papers preſented from the Army, before particulars produced and proofes made.</hi>
+            </p>
+            <p>And were not the Priviledges of the Houſe of Peeres, and the Lawes of the Land violated in like manner, when the Earle of <hi>Strafford,</hi> the Arch B ſhop of <hi>Canterbury,</hi> and the 12 B ſhops were ſuſpended from ſitting in that Houſe, and committed firſt to the Black Rod, and after<g ref="char:EOLhyphen"/>ward to the Tower, upon a generall charge only, and be<g ref="char:EOLhyphen"/>fore particulars produced, and proofes made?</p>
+            <p>And is it not remarkable, that Mr. <hi>Glin,</hi> who accuſed thoſe Biſhops, and deſired the Lords that they might be <note place="margin">Husb. p. 43.</note> forthwith ſequeſtred from Parliament, and put into ſafe cuſtody, ſhould now be ſequeſtred, and committed upon the like accuſation?</p>
+            <p>
+               <hi>It is evident, what great influence the Army hath through<g ref="char:EOLhyphen"/>out</hi> 
+               <note place="margin">Pat. 3.</note> 
+               <hi>had upon the Counſells of the Parliament.</hi>
+            </p>
+            <p>And hath not the City had the like influence through<g ref="char:EOLhyphen"/>out, untill of late they were maſtered by the power of the Army?</p>
+            <p>
+               <hi>Although this Army be inveſted with the whole power of</hi> 
+               <note place="margin">Par. 4.</note> 
+               <hi>the Land Forces of this Kingdome, under pay of the Parlia<g ref="char:EOLhyphen"/>ment: And there is nothing left that can probably make any conſiderable reſiſtance: Yet they demand the change of the Militia of the City of London, after it had beene eſtabliſhed</hi>
+               <pb n="11" facs="tcp:48597:6"/> 
+               <hi>by Ordinance of Parliament, and deſire it to be put into other hands.</hi>
+            </p>
+            <p>And although his Maieſty offred to grant Commiſſi<g ref="char:EOLhyphen"/>ons to thoſe that they had nominated to be Lords Liev<g ref="char:EOLhyphen"/>tenants of the ſeverall Counties, for calling together, <note place="margin">Husb. 73. 91.</note> training, exerciſing, and conducting the Militia, or Trai<g ref="char:EOLhyphen"/>ned <note place="margin">See. par. 28.</note> Bands of the Kingdome, to reſiſt invaſions from a<g ref="char:EOLhyphen"/>broad, and to ſuppreſſe Rebellions and inſurrections at home, and ſo to defend, and ſecure the Kingdome, then pretended by them to be in danger; yet the two Houſes of Parliament were not content therewith. Nor will the chiefe Authors, and Promoters of the deſigne now in <note place="margin">Husb. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> hand, ſubmit any longer to the Ancient forme of Go<g ref="char:EOLhyphen"/>vernment, and adminiſtration in this kinde; but (aiming <note place="margin">See par. 17.</note> rather to put the two Houſes into a poſture of inreſiſta<g ref="char:EOLhyphen"/>ble power, then the Kingdome into poſture of ſure de<g ref="char:EOLhyphen"/>fence) they require for them in effect the whole power both in the diſpoſition and in the execution of the Militia <note place="margin">See the Ord. for ſetling the Militia. Husb. 88.</note> of the Kingdome.</p>
+            <p>And (whatſoever they pretended) this their demand of the Militia, was not to oppoſe any preſent inſurrecti<g ref="char:EOLhyphen"/>on, rebellion, or invaſion; but to ſet up their affected and <note place="margin">See par. 18. 22. 32.</note> intended Domination. And their alteration of the ſet<g ref="char:EOLhyphen"/>tled order of the Militia was not for the better ſecuring <note place="margin">See par. 7.</note> of the Kingdome, but for their better entring upon the Government, firſt in the Militia, and afterward in other <note place="margin">See the 19. Propoſitions. Husb. 307. Witneſſe their protection of Sir Jo. Ho<g ref="char:EOLhyphen"/>tham in the buſineſſe of Hull. Husb. 152. 162</note> particulars by the power, and meanes of the Militia. And ſo have they to this day executed the Militia according<g ref="char:EOLhyphen"/>ly, not to the ſuppreſſing of any inſurrections, rebellions, or invaſions, attempted and made againſt the King, and the Lawes of the Land, and the eſtabliſhed government of the Kingdome, (for which at firſt it was ordained and
+<pb n="12" facs="tcp:48597:7"/> inſtituted.) But to the ſetling, and eſtabliſhing of a pre<g ref="char:EOLhyphen"/>tended Soveraignty in the two Houſes of Parliament, and to the inforcing ſubjection to them, and obedience to their Votes, and Ordinanecs, and ſubmiſſion to their uſurped Dominion; and to the ſuppreſſing of all oppoſi<g ref="char:EOLhyphen"/>tion, <note place="margin">Witneſſe the Hothams, Mr. Carew, eleven Members. See par. 17.</note> whether at home, or from abroad, attempted, and made againſt them, their deſigne, their State, and govern<g ref="char:EOLhyphen"/>ment. And for theſe reaſons, at firſt they deſired the Militia, and endeavoured from time to time, to poſ<g ref="char:EOLhyphen"/>ſeſſe themſelves of it, and reſolved not to give over, till by ſome meanes or other, they had attained it, and rew modelled it, and the Government, and the Kingdome by <note place="margin">See the Pro<g ref="char:EOLhyphen"/>poſitions a<g ref="char:EOLhyphen"/>foreſayd.</note> it.</p>
+            <p>
+               <hi>And having experience, how formerly the Army have e<g ref="char:EOLhyphen"/>ver</hi> 
+               <note place="margin">Par. 5.</note> 
+               <hi>inſiſted upon any thing they once demanded, &amp;c.</hi>
+            </p>
+            <p>And have wee not had the like experience of the Ci<g ref="char:EOLhyphen"/>ty formerly?</p>
+            <p>
+               <hi>And therefore being thus awakened by the unexpected and</hi> 
+               <note place="margin">Far. 6.</note> 
+               <hi>undeſerved interpoſition of the Army, in the Militia of the City &amp;c.</hi>
+            </p>
+            <p>As his Majeſty was awakened by your interpoſition in <note place="margin">Husb. 61. 94</note> the Militia of the Kingdome, which is the only ſafeguard and ſecurity of his Perſon and Crowne.</p>
+            <p>
+               <hi>Wee could not in honour doe leſſe, than wee have done to</hi> 
+               <note place="margin">Par. 7.</note> 
+               <hi>preſerve our intereſt in ſo great a part of our Government.</hi>
+            </p>
+            <p>Nor could the King in honour doe leſſe then he did to preſerve his intereſt in ſo great a part of his government, as is the Militia of the Kingdome, which indeed is no<g ref="char:EOLhyphen"/>thing elſe but the power of the ſword, which God hath put into his hands for the diſcharge of his Kingly Office, in protecting and governing his people.</p>
+            <p>
+               <hi>But if this vindication of our Right in the Militia of this</hi> 
+               <note place="margin">Par. 8.</note>
+               <pb n="13" facs="tcp:48597:7"/> 
+               <hi>City, ſhall be thought by the Army to be a juſt cauſe to caſt themſelves upon extraordinary courſes; let God, the King<g ref="char:EOLhyphen"/>dome, and the whole world be Iudges betweene them and us.</hi>
+            </p>
+            <p>And let God, the Kingdonme, and the whole world be Judges betweene his Majeſty, and your Party, whe<g ref="char:EOLhyphen"/>ther the vindication of his Right in the Militia of the Kingdome, were a juſt cauſe to caſt them upon thoſe ex<g ref="char:EOLhyphen"/>traordinary courſes that they have taken.</p>
+            <p>
+               <hi>Neither can wee ſee why the Army ſhould take notice of</hi> 
+               <note place="margin">Par 9.</note> 
+               <hi>our Petition, and ingagement, it being only intended to the Common Hall, but never preſented; even as the Petition of their Souldiery was to their Generall, which being taken notice of by the Parliament, as it was in agitation, was then ſo deepely reſented by the Souldiery.</hi>
+            </p>
+            <p>Neither can wee ſee why the Parliament did take no<g ref="char:EOLhyphen"/>tice <note place="margin">Husb. 563.</note> of Captaine <hi>Leggs</hi> Petition, heretofore prepared and intended only.</p>
+            <p>
+               <hi>Wee declare unto the whole Kingdome the bottome of our hearts and affections, as in relation to his Majeſty, whom wee</hi> 
+               <note place="margin">Par. 10.</note> 
+               <hi>have alwaies, and ſhall ever acknowledge to be our true and only Soveraigne, although his Royall Perſon hath been divi<g ref="char:EOLhyphen"/>ded from us.</hi>
+            </p>
+            <p>Being driven away firſt by tumult, and afterward kept away by force of Armes, and ſo not ſuffered either to ſtay with you in ſaſety, or returne to you with ſecurity.</p>
+            <p>
+               <hi>Wee have with much longing attended what the Army</hi> 
+               <note place="margin">Par. 11.</note> 
+               <hi>would propound concerning his Majeſty in particular, accor<g ref="char:EOLhyphen"/>ding to the great expectation which they have raiſed in the people, from that which they have hinted in their Declarati<g ref="char:EOLhyphen"/>on, or repreſentation, and other Papers of their intentions to<g ref="char:EOLhyphen"/>wards his Majeſty. But hitherto the time hath been ſpent, and nothing done, but to get the whole power of the Kingdome,</hi>
+               <pb n="14" facs="tcp:48597:8"/> 
+               <hi>and City into their hands.</hi>
+            </p>
+            <p>And did not the two Houſes at the beginning in their Declarations pretend as much for the King, only to get the power of the Kingdome into their hands?</p>
+            <p>
+               <hi>Wee therefore doe in the preſence of Almighty God pro<g ref="char:EOLhyphen"/>feſſe, that there is nothing in the world that wee more deſire</hi> 
+               <note place="margin">Par. 12.</note> 
+               <hi>then that his Majeſty may be put and left free in ſuch hono<g ref="char:EOLhyphen"/>rable condition and capacity, as his Perſon may appeare to be at liberty to receive, and treate, upon ſuch Propoſitions, as ſhall be preſented unto him. For our conſciences tells us, that whilſt his Royall Perſon is invironed by an Army, and re<g ref="char:EOLhyphen"/>maines under the power thereof wee cannot expect that either his Majeſties Princely heart can give that free aſſent unto thoſe things which ſhall be propounded unto him, as is requi<g ref="char:EOLhyphen"/>ſite, or if he doe, wee cannot hope with good reaſon, that wee and our Poſterity ſhall without alteration enjoy them.</hi>
+            </p>
+            <p>And why is not the King as free to theſe intents, and purpoſes, under the power of the Army, as when he was at Newcaſtle, or Holmby, or would have been, had he been ſent to Warwick Caſtle?</p>
+            <p>
+               <hi>Wee cannot omit alſo to declare unto the Kingdome, how</hi> 
+               <note place="margin">Par. 13.</note> 
+               <hi>wee have ſadly obſerved ſince the eleaven accuſed Members withdrew themſelves, that the Army hath daily grown upon the Parliament.</hi>
+            </p>
+            <p>Juſt as the City grew upon it, after they had driven a<g ref="char:EOLhyphen"/>way the King, and his Party by tumults.</p>
+            <p>
+               <hi>And wee ſhall particularly inſiſt upon the readmiſsion of the eleaven Members lately driven out of the Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> 
+               <note place="margin">Par. 14.</note> 
+               <hi>by the violent purſuit of the Army.</hi>
+            </p>
+            <p>And why not for the readmiſſion of the Members of both Houſes purſued, and driven away by tumults for<g ref="char:EOLhyphen"/>merly?</p>
+            <pb n="15" facs="tcp:48597:8"/>
+            <p>
+               <hi>We ſhould expreſſe our ſelves farther to vindicate this</hi> 
+               <note place="margin">Par. 15:</note> 
+               <hi>City before the Kingdome, from the aſperſions that have been caſt upon us, to have beene the firſt promoters and contrivers of this unnaturall Warre.</hi>
+            </p>
+            <p>And did not your money and plate (brought in upon <note place="margin">Husb. 339. See par. 26.</note> the Propoſitions) rayſe the firſt Army, June 10 1642? And did not that Army conſiſt principally of Appren<g ref="char:EOLhyphen"/>tices and others, living in, and about the City of Lon<g ref="char:EOLhyphen"/>don?</p>
+            <p>
+               <hi>But God is our witneſſe, how deſirous we have beene at all</hi> 
+               <note place="margin">Par. 16.</note> 
+               <hi>times and ſtill are of a ſafe and well grounded peace.</hi> Wit<g ref="char:EOLhyphen"/>neſſe your Petition in Auguſt 1643. The ſtory is this:</p>
+            <p>The Houſe of Peeres reſolved on Propoſitions of <note place="margin">See Par. 30.</note> peace to be ſent to his Majeſty, and they ſent them to the Houſe of Commons; where they were carried by 29 voices; heereupon a Petition was framed By Alderman <hi>Pennington,</hi> and others, and preſented to the Houſe of Commons, and the Petitioners cenſure the Propoſitions as deſtructive of Religion, Lawes, and Liberties; and the Petition is attended by a great multitude of meane Perſons, who menaced, and reproached the Members of both Houſes. And ſo the Propoſitions formerly recei<g ref="char:EOLhyphen"/>ved, were rejected, and all thoughts of Peace layd aſide.</p>
+            <p>
+               <hi>And thus wee have heerein truely ſtated the matter of</hi> 
+               <note place="margin">Par. 17.</note> 
+               <hi>difference (if it can be called any) between us and the Army, to wit this alone, that wee could not ſubmit the Militia of the City to be altered at the pleaſure of an Army.</hi>
+            </p>
+            <p>And this alſo was the matter of difference betwixt the King, and the two Houſes, to wit, that his Majeſty could not ſubmit the Militia of the Kingdome, which is <note place="margin">See Par, 4</note> inherent in the Crowne, to be altred at the pleaſure of a Party of Lords, and Commons, abiding at Weſtminſter,
+<pb n="16" facs="tcp:48597:9"/> after that a Bill in the Houſe of Commons, and ſeverall motions to the Lords for that alteration, had beene reje<g ref="char:EOLhyphen"/>cted, when there was a full and free Convention of Par<g ref="char:EOLhyphen"/>liament.</p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>A Parallell of divers paſſages in the Armies Remon<g ref="char:EOLhyphen"/>ſtrance, of Auguſt</hi> 18. 1647.</head>
+            <p>
+               <hi>When the adverſe Forces and Garriſons within this</hi> 
+               <note place="margin">Par. 18.</note> 
+               <hi>Kingdome, were diſsipated and reduced, we found immediat<g ref="char:EOLhyphen"/>ly the croſſe working of a ſtrong and prevalent party in the Parliament and Kingdome, who being men of corrupt and private ends and intereſts, made uſe of their power to drive on deſignes, to ſet up a party, and faction in the Parliament, and Kingdome, and (by the advantage of a perpetuall Parlia<g ref="char:EOLhyphen"/>ment) to domineere over, and inſlave the Kingdome to poſte<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p>And did not his Majeſty immediatly after the Parlia<g ref="char:EOLhyphen"/>ment aſſembled, finde the croſſe working of the ſame par<g ref="char:EOLhyphen"/>ty? And did not he Declare them to bee men of corrupt and private ends, and to make uſe of their power to drive on deſignes, to overthrow Monarchy, and to ſet up their Party, and to domineere over us, and to inſlave us to po<g ref="char:EOLhyphen"/>ſterity? And did not his Majeſty impeach them accor<g ref="char:EOLhyphen"/>dingly? And did not you of the Independent way joyne with them in their Deſignes? And are not ſome of your Party joyned alſo in the Articles of impeachment? And at this day is there not emulation betweene them and you for Preheminence; and contention for the Rule and Go<g ref="char:EOLhyphen"/>vernment?</p>
+            <pb n="17" facs="tcp:48597:9"/>
+            <p>
+               <hi>To which ends, as before this Parliament the ignominious</hi> 
+               <note place="margin">Par. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>names of Puritan, and Non conformiſts, were made uſe of; ſo they have vſed the odious name of Browniſts, Anabaptiſts, Independents, &amp;c.</hi>
+            </p>
+            <p>And for compaſſing of your ends, did not you and they, make uſe of the odious and ignominious names of Malignants, ill affected, enemies to the State &amp;c. to blaſt thoſe men who ſtood for the Laws of the Land, the right of the Crowne, the Legall Liberty of the Subject, and the juſt Priviledges of Parliament?</p>
+            <p>
+               <hi>In purſuance of their deſignes, they endevoured and prevai<g ref="char:EOLunhyphen"/>led</hi> 
+               <note place="margin">Par. 20.</note> 
+               <hi>to put out of all places of power or publique truſt, the moſt ſober and conſcientious men: and cloſing with a very power<g ref="char:EOLhyphen"/>full party in the City of London, they firſt endeavoured and prevayled to new modell the Common Councell, and forme it to their owne Party.</hi>
+            </p>
+            <p>And did not you and they, doe the ſame from the be<g ref="char:EOLhyphen"/>ginning? <note place="margin">Husb. 537.</note>
+            </p>
+            <p>
+               <hi>By their continuall violent and preſsing importunity at the</hi> 
+               <note place="margin">Par. 21.</note> 
+               <hi>Parliament doores, they wrung from the Parliament an Ordi<g ref="char:EOLhyphen"/>nance for altering the Militia of the City, which hath ſpeciall influence upon the City, and Kingdome, &amp; Parliament itſelfe.</hi>
+            </p>
+            <p>And did not the like violence and importunity, at firſt extore the altering the Militia of the Kingdome?</p>
+            <p>
+               <hi>They cauſe the Militia of London to bee put into the hands</hi> 
+               <note place="margin">Par. 22.</note> 
+               <hi>of men given up and engaged to the private intereſt and de<g ref="char:EOLhyphen"/>ſignes of a factious party. They deſigned, and went about to put the Kingdome to the expence and trouble of rayſing and forming a new force, (under pretence) as for the ſervice of Ireland but indeed to ſerve their owne ends, and purpoſes a<g ref="char:EOLhyphen"/>foreſayd, in England.</hi>
+            </p>
+            <p>And did nor you and they ſo from the beginning? <note place="margin">Husb. 537.</note>
+            </p>
+            <pb n="18" facs="tcp:48597:10"/>
+            <p>
+               <hi>Their endevour was not only to put the Army off without</hi> 
+               <note place="margin">Par. 23.</note> 
+               <hi>the honour and ſatisfaction due to it, for the ſervice it had done, but to disband it on ſuch tearmes as to ſubject and ex<g ref="char:EOLhyphen"/>poſe them and their party unto oppresſion and undoing.</hi>
+            </p>
+            <p>And I wiſh that your not disbanding tend onely to your owne preſervation, and not to others oppreſſions and undoing.</p>
+            <p>
+               <hi>Before our disbanding we deſired alſo the ſetling of the peace</hi> 
+               <note place="margin">Par. 24.</note> 
+               <hi>of the Kingdome, and the ſecuring the common rights and li<g ref="char:EOLhyphen"/>berties therof, which we were called out to defend &amp; vindicate</hi>
+            </p>
+            <p>And are not thoſe common rights and liberties found in <hi>Magna Charta,</hi> and in the Petition of Right? And doe you defend and vindicate them? And is not Peace the tranquility of Order, Politicall peace the tranquility of Politicall Order, and of Monarchicall in a Monarchy? And doe you endeavour to ſettle the peace of the King<g ref="char:EOLhyphen"/>dome accordingly?</p>
+            <p>
+               <hi>We hold moſt juſt equall, and neceſſary, the poſitive ſuſpen<g ref="char:EOLhyphen"/>ſion</hi> 
+               <note place="margin">Par. 25.</note> 
+               <hi>of thoſe impeached Members, from ſitting in the Houſes as Iudges in their owne cauſe, and from their power in Com<g ref="char:EOLhyphen"/>mittees, whereby they had advantage to raiſe war againſt us.</hi>
+            </p>
+            <p>But you held the contrary in the caſe of the Members impeached by his Majeſty.</p>
+            <p>
+               <hi>And finding the impeached Members continue, in, and a<g ref="char:EOLhyphen"/>bout</hi> 
+               <note place="margin">Par. 26.</note> 
+               <hi>London, very active, and buſie, to raiſe war, and make di<g ref="char:EOLhyphen"/>ſturbances in the Kingdome: and that the Committee of the Militia there did comply with them therein &amp;c.</hi>
+            </p>
+            <p>And were not the five Members equally active and buſie, and was there not the like compliance betweene them and the City, in rayſing war againſt the King, and diſturbing the Kingdome?</p>
+            <p>
+               <hi>We made a particular addreſſe to the Parliament: for</hi> 
+               <note place="margin">Par. 27.</note>
+               <pb n="19" facs="tcp:48597:10"/> 
+               <hi>the reſtoring of the City Militia into thoſe hands, in which it was before the Ordinance of the fourth of</hi> May <hi>laſt, and for Repealing that Ordinance, by which it had beene changed.</hi>
+            </p>
+            <p>And were not your addreſſes for reſtoring the Militia ſuch as the Cities, for altering it? I appeale to your own <note place="margin">See Par. 21.</note> conſciences, whether you made that propoſall, with ſub<g ref="char:EOLhyphen"/>miſſion to a free debate, and determination of Parliament, or not rather with a full reſolution to have it paſſed, and granted? And if need were, to Importune and preſſe, the paſſing and granting of it? I appeale alſo to the con<g ref="char:EOLhyphen"/>ſciences of thoſe that paſſed it, whether they did not more looke upon the partyes intereſſed in the buſineſſe, then the buſineſſe it ſelfe? And whether they did re<g ref="char:EOLhyphen"/>peale their former Act for any injuſtice in the Ordinance or not rather out of affections, or cowardly complyance with the Army, then more prevalent then the City?</p>
+            <p>
+               <hi>For the reaſonableneſſe of our deſires, wherein wee dare</hi> 
+               <note place="margin">Par. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>confidently appeale to all men, whether for the preſent ſafety and quiet of the City, upon ſuch a change, and to prevent thoſe dangers, or diſturbances, to, or in the City, which the want of a Militia during the Intervall (betwixt the ceaſing of one, and new forming of another) might give occaſion, and advantage unto. And whether at a tyme when jealou<g ref="char:EOLhyphen"/>ſies and diſturbs were both ſo rife and hurtfull, there could be any propoſall more reaſonable, or hopeful, to beget a confi<g ref="char:EOLhyphen"/>dence, and acquieſcence, both in the Parliament, City, and Army, then, &amp;c,</hi>
+            </p>
+            <p>And I dare confidently appeale to all men, whether for the ſafety and quiet, of the Kingdome at that time, to prevent thoſe dangers, or diſturbances, to, or in the Kingdome, which the want of a Militia, during intervall
+<pb n="20" facs="tcp:48597:11"/> betwixt ceaſing of one, and new forming of another, might give occaſion, and advantage unto: And at that time, when jealouſies and diſtruſts were rife, betweene the King and the Parliament mutually, and really grea<g ref="char:EOLhyphen"/>ter, <note place="margin">Husb. 103.</note> on the Kings ſide, then on the Parliaments, there could be any Propoſall more reaſonable, or hopefull to <note place="margin">See Par. 4.</note> beget a confidence and acquieſcence on both ſides, then that which his Majeſtie made, <hi>viz.</hi> To put the Militia of <note place="margin">Husb. 91. 92. 134. 158.</note> the Kingdome into the hands of thoſe, they had recom<g ref="char:EOLhyphen"/>mended to him; promiſing alſo to continue the ſame, to ſuch time as there ſhould be cauſe. Beſides, his Majeſty would have paſſed an Act, not to have done any thing, in the execution of the Militia, without the advice of both Houſes of Parliament, for a yeare, hoping in that time, their Buſineſſe might be done, for which at firſt, they ſeemed to deſire it, which was, that they might ſecurely <note place="margin">Husb. 54. 64.</note> conſider of his Majeſties Meſſage, of Jan. 20.</p>
+            <p>
+               <hi>They did contrive and ſet on foote, in the City, and many</hi> 
+               <note place="margin">Par. 23.</note> 
+               <hi>of them entered into a miſchievous, and deſperate Vow and Engagement, tending to the ſubverſion of the freedome of Parliament, and liberties of this Nation.</hi>
+            </p>
+            <p>And have not you, and they, managed all your Vows, Proteſtations, and Covenants, accordingly? For all thoſe <note place="margin">See par. 38.</note> tyes and obligations, have not you invaded our freedome and libertyes, whenſoever they ſtood in your way, and were oppoſite too, or hinderances of your Deſignes? And when at any time, you undertooke the vindication of them, was it not done meerely for your better advan<g ref="char:EOLhyphen"/>tage, and in order to your Deſignes onely?</p>
+            <p>
+               <hi>On Munday, July 26. A Petition was brought to the Par<g ref="char:EOLhyphen"/>liament</hi> 
+               <note place="margin">Par. 30.</note> 
+               <hi>by the Sheriffs &amp;c. for the returning of the Militia into thoſe hands, in which it was put by the Ordinance of</hi>
+               <pb n="21" facs="tcp:48597:11"/> 
+               <hi>the fourth of May which Petition was imediately followed and backed with a tumultuous confidence of Apprentices, and other diſſolute and deſperate perſons, who committed moſt horrid and unheard of violence upon both Houſes &amp;c. Nei<g ref="char:EOLhyphen"/>ther did the Guard from the City, that then attended the Houſes, nor the Lord Mayor, Sheriffs, nor any Authority in the City, take any courſe to ſuppreſſe the ſaid Tumult, &amp;c. And Iuly 30. there were printed Tickets fixed upon poſts, in and about the City; inciting the ſame perſons to the like con<g ref="char:EOLhyphen"/>fluence at Weſtminſter, againſt the Houſes next ſitting. By which meanes, the Speakers of both Houſes, together with moſt of the Lords, and a very great number of the Members of the Houſe of Commons, were driven away, ſo as they could not with ſafety attend their ſervice in Parliament, nor with freedome diſcharge their Truſt, to the Kingdome therein.</hi>
+            </p>
+            <p>And were not Petitions attended and backt in like manner, and were there not the like violencies and con<g ref="char:EOLhyphen"/>fluences formerly? And was there not as little care ta<g ref="char:EOLhyphen"/>ken by the City for ſuppreſſing them? And were there not Tickets fixed upon poſts, inviting the Multitude, to <note place="margin">See par. 16.</note> accompany the aforeſaid Petition, in Auguſt 1643? at the delivery whereof, were not diverſe Members of both Houſes aſſaulted, <hi>viz.</hi> The Earles of Northumberland, Holland, &amp;c. And thereupon did not the Earles of Bed<g ref="char:EOLhyphen"/>ford, and Holland, goe away to Oxford, and Northum<g ref="char:EOLhyphen"/>berland to Petworth? And did not diverſe other Mem<g ref="char:EOLhyphen"/>bers of both Houſes withdraw themſelves, becauſe they could not with ſafety attend their ſervice in Parliament, nor with freedome diſcharge their truſt to the Kingdome therein?</p>
+            <p>
+               <hi>Notwithſtanding, divers Members of both Houſes, to</hi> 
+               <note place="margin">Par. 31.</note> 
+               <hi>carry on their Deſignes, when very few were left, but of</hi>
+               <pb n="22" facs="tcp:48597:12"/> 
+               <hi>their owne Party, did continue to meet, in the uſuall places at Weſtminſter, and tooke upon them the name of both Houſes of Parliament, and did proceede to Vote and Act as a Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>But have we not juſt ſuch a Parliament, ever ſince the Tumults, 1541?</p>
+            <p>
+               <hi>And firſt the ſaid Members of the Houſe of Commons,</hi> 
+               <note place="margin">Par. 32.</note> 
+               <hi>called in as to the ſervice of the Houſe, the eleaven impeach<g ref="char:EOLhyphen"/>ed Members: and with this pretended Houſe of Commons, and foure or five Lords of the ſame Modell, for an Houſe of Peeres, they proceeded to ſet up a Committee for ſafety, whereof all, or moſt of the impeached Members, were a part; and they appoynt themſelves to joyne with the Committee of the City Militia, and they gave them large powers for raiſ<g ref="char:EOLhyphen"/>ing of Forces, appoynting cheife Commanders, and other Of<g ref="char:EOLhyphen"/>ficers; and raiſing a new Warre in this Kingdome, in juſtifi<g ref="char:EOLhyphen"/>cation, proſecution, and maintenance of their Treaſonable Ingagement, and of the forces and violence done to the Par<g ref="char:EOLhyphen"/>liament: and to oppoſe and hinder the Reſtitution of the Hou<g ref="char:EOLhyphen"/>ſes of Parliament to their honor and freedome (though the pretences were for the defence of the King, Parliament, and</hi> 
+               <note place="margin">See par. 37.</note> 
+               <hi>City, then alleadged to bee in danger, when indeed, none were in danger, but onely the authors, actors, and abettors, of the trayterous practices aforeſaid.) And this farther ap<g ref="char:EOLhyphen"/>peared hereby. That thoſe very Apprentices, Reformadoes, and others about the City, who were the chiefe actors in the ſaid Engagement, and Tumult, were afterwards, moſt truſted, and imployed, and moſt active in their preparations for Warre.</hi>
+            </p>
+            <p>And were not yours and their proceedings, in every circumſtance, the ſame formerly? After you had enga<g ref="char:EOLhyphen"/>ged your ſelves in the two treaſonable Bills, to take away
+<pb n="23" facs="tcp:48597:12"/> from the King, the government of the Church, by Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, &amp;c. and to take out of his hand the Mi<g ref="char:EOLhyphen"/>litia of the Kingdome, Did not you in the firſt place en<g ref="char:EOLhyphen"/>deavour to new modell both Houſes of Parliament? And did you not rayſe tumults to that purpoſe? And did you not rayſe a war afterwards, in juſtification, proſecution, and maintenance of your Treaſonable engagements, and of the force and violence done to the Parliament, and to oppoſe and hinder the reſtitution of the Houſes of Parli<g ref="char:EOLhyphen"/>ament, to their honour and freedome, and of his Majeſtie to his juſt Rights, Power, and Government, (though at that time you pretended the defence of the King, Parlia<g ref="char:EOLhyphen"/>ment, and City, then alleadged to bee in danger, when indeed none were in danger, but only the authors actors, and abettors of the traiterous practiſes aforeſayd) and thoſe very men, in, and about the City, who were the chiefe actors in thoſe engagements, and tumults, were they not afterwards moſt truſted, and imployed, and moſt active in the firſt preparations for war?</p>
+            <p>
+               <hi>The true ends of all their proceedings were the ſame with</hi> 
+               <note place="margin">Par. 33.</note> 
+               <hi>the ſaid Treaſonable engagement and tumult againſt the Par<g ref="char:EOLhyphen"/>liament: all of them conce<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ring (as in other things) ſo eſpe<g ref="char:EOLhyphen"/>cially in this (viz.) to have the King brought up to London, without delay, or any neerer approach of the Army.</hi>
+            </p>
+            <p>As all their and your proceedings formerly concentred in this. To drive him away from London, that ſo you might enter upon the government: and as at preſent, your proceedings concenter in this, to keepe him from Lon<g ref="char:EOLhyphen"/>don, and from his government. But I ſee no reaſon why (if you pleaſe) his Majeſty may not forthwith returne to London, <hi>for ought you remonſtrate.</hi> For I ſuppoſe, <hi>you inſiſt not on the Reſolutious of both Houſes, and both Kingdomes in</hi>
+               <pb n="24" facs="tcp:48597:13"/> 
+               <hi>that caſe,</hi> ſince they alſo <hi>Reſolved that his Majeſty ſhould abide at Holmby,</hi> but you ſeazed his ſacred perſon, and brought him thence. <hi>They reſolved alſo, that his Majeſty ſhould remove to Richmond,</hi> but you would not ſuffer him to goe thither. And whereas <hi>you propoſed, That the King might not come neerer, then the Quarters of the Army, to the City.</hi> You have now the City under your power, and may Quarter in it at pleaſure. Beſides there is no doubt, <hi>upon the termes you propoſe,</hi> but that the King will come to the Parliament, as you deſire, <hi>not ſo much in place, as in affection and agreement. Vpon ſuch termes as may render both him and the Kingdome ſafe, quiet, and happy.</hi> And tis not likely, <hi>that his comming upon theſe termes can produce greater diſturbances and diſtractions, but peace indeed,</hi> if you keepe to your Remonſtrance, and bottome your peace on grounds of common and publique welfare and ſecurity, and not ſhape and mould it, only to the private advantage of a particular party, or faction.</p>
+            <p>And heerein be ſure to avoyd what you charged upon the Presbyterians, That they would make ſuch a Peace with the King (if any) as would only ſerve to ſet up and ſtabliſh their owne greatneſſe, and the affected dominati<g ref="char:EOLhyphen"/>on of themſelves and their party over all others.</p>
+            <p>
+               <hi>But to returne to our purpoſe:</hi>
+            </p>
+            <p>
+               <hi>By what hath beene declared and publiſhed from us, and from the ſpeakers, and aforeſayd Members of both Houſes it may appeare how maliciouſly, treacherouſly and unworthily, we have beene dealt withall by thoſe our enemies, and by a fa<g ref="char:EOLhyphen"/>ctious and powerfull party (eſpecially) in the Parliament and City combining with them.</hi>
+            </p>
+            <p>And to what hath been publiſhed by his authority, and by the Lords and Commons at Oxford (in their Dicla<g ref="char:EOLhyphen"/>ration
+<pb n="25" facs="tcp:48597:13"/> of the 9 Mart. 1643. ſetting foorth the reaſons of their going away from Weſtminſter) it may appeare, how they were dealt withall, by both parties in the Parli<g ref="char:EOLhyphen"/>ament and City combining together.</p>
+            <p>
+               <hi>The Houſes being thus reſtored to a condition of preſent</hi> 
+               <note place="margin">Par. 35.</note> 
+               <hi>ſafety, honour, and freedome, It is abſolutely neceſſary that there be ſpeedy and exemplary juſtice done upon (at leaſt) the chiefe authors &amp; abettors of the ſaid treaſonable engagement, and of the ſaid force done to the Parliament, and upon the chiefe actors, in maintenance and proſecution thereof.</hi>
+            </p>
+            <p>Or rather upon the chiefe authors, abettors, and main<g ref="char:EOLhyphen"/>tayners of the former ingagements, force and violence, which till done, the Houſes cannot be reſtored to their native and primitive ſafety, honour, and freedome.</p>
+            <p>
+               <hi>The Right Honourable the Houſe of Peeres, have ſince their</hi> 
+               <note place="margin">Par. 36.</note> 
+               <hi>Reſtitution, begun and proceeded to declare null and void all that was done in the name of both Houſes, while they lay un<g ref="char:EOLhyphen"/>der the power of the tumultuous violence.</hi>
+            </p>
+            <p>And conſequently, they declare null and voyd all that hath beene done in the name of both Houſes, from Dec. 1641. to this preſent day, ſince the Parl. as it was firſt con<g ref="char:EOLhyphen"/>vened, hath all this time layen under the power of vio<g ref="char:EOLhyphen"/>lence, tumultuous or military.</p>
+            <p>
+               <hi>Yet the Houſe of Commons hath not onely not concurred</hi> 
+               <note place="margin">Par. 37.</note> 
+               <hi>with the Lord, in any of thoſe things, but rather ſeeme to have caſt them aſide: and the Members of that Houſe, who after the violence done, and in the abſence of the Speakers, and o<g ref="char:EOLhyphen"/>thers proceeding in the name of that Houſe made the pretend<g ref="char:EOLhyphen"/>ed Votes Orders, and Ordinances aforeſaid, and were the chief actors thereupon, for levying of war, in proſecution &amp; main<g ref="char:EOLhyphen"/>tenance of the engagements and tumults, being conſcious of their owne guilt and danger thereby, and preſuming on their</hi>
+               <pb n="26" facs="tcp:48597:14"/> 
+               <hi>intereſt in the Houſe, indevor to obſtruct and avoid the bring<g ref="char:EOLhyphen"/>ing of any to juſtice, who have acted under their pretended au<g ref="char:EOLhyphen"/>thority, knowing it to be their owne caſe and concernment, in</hi> 
+               <note place="margin">See par. 32.</note> 
+               <hi>point of impunity, aſwell as conducing to their faction and in<g ref="char:EOLhyphen"/>tereſt: for that cauſe they labour (as for life) to uphold the things paſt and done, and the authorities given by them and their faction (in their and the Apprentices Parliament,) yea and thoſe very Votes wreſted by force Iuly 26. And they are ſtrengthened by the concurrence of divers other Members al<g ref="char:EOLhyphen"/>ſo, who having perhaps with harmleſſe intentions) continued to ſit with them, may yet feare themſelves to bee involved in the ſame caſe and danger, by having ſate with them: And thus by the concurrence of both theſe parties, we find an abſo<g ref="char:EOLhyphen"/>lute obſtruction to the bringing to juſtice or queſtioning of any who have acted as aforeſayd, but all ſeeme to be either juſtifi<g ref="char:EOLhyphen"/>ed, or at leaſt protected from juſtice, by the power and preva<g ref="char:EOLhyphen"/>lence of thoſe Members in Parliament who are many of them as we can make appeare) equally guilty of, and others) in ſome kind obnoxious for the ſame things.</hi>
+            </p>
+            <p>And in point of the tumults, did not the ſame Houſe in like maner refuſe the Motions, and oppoſe the Order of the Houſe of Peeres for repreſſing them? and did not the guilty Members by their intereſt in the Houſe, obſtruct the queſtioning of thoſe that had acted in thoſe Tumults, knowing it to be their own caſe &amp; concernment, in point of impunity, aſwell as conducing to their faction and in<g ref="char:EOLhyphen"/>tereſt? and did not both your parties labour (as for life) to uphold what was paſt and done in thoſe tumults? yea and that very Vote in the Lords Houſe concerning the Militia Jan. 31. when that inſolent and minatory Petition of the poore people, in and about London, was after a more in<g ref="char:EOLhyphen"/>ſolent and minatory maner by <hi>M. Hollis</hi> inforced upon that Houſe?</p>
+            <pb n="27" facs="tcp:48597:14"/>
+            <p>
+               <hi>I ſhould now or hereafter (while the Parliament ſits) draw</hi> 
+               <note place="margin">Par. 38.</note> 
+               <hi>off the Army from about the City, without exemplary juſtice upon ſome, would not the ſame, or more dangerous tumults and violence probably returne upon the Parliament, eſpecially. when they ſhall have before their eyes, the incouragement of that impunity and protection which they have hitherto found from within the Parliament it ſelfe, in the paſt practiſes a<g ref="char:EOLhyphen"/>fore mentioned.</hi>
+            </p>
+            <p>And is exemplary Juſtice to be now firſt done in this <note place="margin">Husb. 531. 537. 561.</note> kinde? did not his Majeſty require it of you, and them, againe and againe, many yeares ſince? And probably, may not the late force and violence fall upon the Parlia<g ref="char:EOLhyphen"/>ment, for want of exemplary Juſtice formerly, and by reaſon of that incouragement of impunity and protecti<g ref="char:EOLhyphen"/>on, which they evermore found within the Parliament it ſelfe? And I wiſh you had beene as carefull in preſer<g ref="char:EOLhyphen"/>ving the freedome of Parliament heretofore, as you ſeeme to be at preſent; or that you had not beene as in<g ref="char:EOLhyphen"/>duſtrous in violating it then, as you ſeeme to be ſtudious in preſerving it now: But that was done for the promo<g ref="char:EOLhyphen"/>ting, and this for the advancing of your cauſe, and party, <note place="margin">See par. 29.</note> and ſo this be done, whether with, or without the free<g ref="char:EOLhyphen"/>dome of Parliament, whether by the preſervation, or vi<g ref="char:EOLhyphen"/>olation of it, it matters not.</p>
+            <p>
+               <hi>But what hopes of juſtice, or a timely diſpatch, can wee</hi> 
+               <note place="margin">Par. 39.</note> 
+               <hi>have, whileſt ſuch a prevailing party of men intereſſed, and concerned in the ſame things, ſhall in the Houſe of Commons continue to be judges thereof, or at leaſt be ready to avow, and juſtifie the offendors therein.</hi>
+            </p>
+            <p>And for the ſame reaſon was not the King without hope of juſtice, againſt thoſe that were the authors and a<g ref="char:EOLhyphen"/>bettors of the former tumultuous practices and proceed<g ref="char:EOLhyphen"/>ings?</p>
+            <pb n="28" facs="tcp:48597:15"/>
+            <p>
+               <hi>We appeale to all men, whether it be juſt or tollerable, that</hi> 
+               <note place="margin">Par. 40.</note> 
+               <hi>any priviledge of Parliament ſhould (centrary to the Law of Nature) make any man judge in his owne cauſe and concern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>And yet have not you and they, meerely by the privi<g ref="char:EOLhyphen"/>ledge of Parliament, contrary to the Law of Nature, made your ſelves Judges in all Cauſes from the begin<g ref="char:EOLhyphen"/>ning, betweene the King, the two Houſes of Parliament, and your ſelves?</p>
+            <p>
+               <hi>And we doe proteſt and declare that if any of thoſe Mem<g ref="char:EOLhyphen"/>bers,</hi> 
+               <note place="margin">Par. 41.</note> 
+               <hi>who during the abſence of the Speakers, and the reſt of the Members of both Houſes (forced away by the tumultuous violence aforeſaid) did ſit in the pretended Houſes, then continuing at Weſtminſter, and Vote for the raiſing a new Warre, or for the Kings comming forthwith to London ſhall hereafter intrude themſelves to fit in Parliamenc, we cannot any longer ſuffer the ſame.</hi>
+            </p>
+            <p>And O that you had the like reſentment, of the former force and violence, done upon the Members of both Houſes of Parliament: And that you had the like indig<g ref="char:EOLhyphen"/>nation and reſolution againſt thoſe that drove them away from Weſtminſter, and afterwards continued to ſit and Vote there, for rayſing an Army, and imbroyling the Kingdome in a moſt unnaturall and bloody Warre: And obſerve, whileſt you bring to condigne puniſhment, the chiefe Authors and Abettors of the late Tumults, how divine Juſtice puniſheth the authors and abettors of the firſt Tumults, <hi>(viz.)</hi> M. <hi>Hollis,</hi> M. <hi>Glyn,</hi> M. <hi>Long,</hi> &amp;c. And you who have followed the conduct of Divine pro<g ref="char:EOLhyphen"/>vidence, in ſome of your undertakings, and from thence onely ſeeme to warrant them, why will you not follow that Divine conduct in this alſo? Which as it is in it ſelfe
+<pb n="29" facs="tcp:48597:15"/> warrantable, ſo it cannot but be commendable in you, as tending meerely to the execution of Juſtice, and not to the advancing and promoting of a Party and Faction; nor is the hand of God ſeene more in puniſhing of theſe Offenders, then it is in the compoſing of your Remon<g ref="char:EOLhyphen"/>ſtrance, which doth ſet forth the firſt Tumults, to the life, in every circumſtance, and ſo you have a ſecond cal from God himſelfe, as you proſecure the late Tumults; ſo to undertake the proſecution of the former, ſo lively repre<g ref="char:EOLhyphen"/>ſented, by your ſelves, to your ſelves, and to the whole World.</p>
+            <p>
+               <hi>But we ſhall do that right to the Speakers and Members of</hi> 
+               <note place="margin">Pat. 42.</note> 
+               <hi>both Houſes, who were driven away to us, and to our ſelves with them, as to take ſome ſpeedy and effectuall courſe, whereby to reſtraine them from being their owne, and our Iudges in thoſe things, wherein they have made themſelves Partyes, and ſo to make way, that both they, and others that are guilty of, and Partyes to the aforeſaid Treaſonable and deſtructive practices, and proceedings, againſt the freedome of Parliament, and peace of the Kingdome, may bee brought to condigne puniſhment, and that at the judgement of a free Parliament.</hi>
+            </p>
+            <p>And O that you would make way that thoſe who were guilty of, and Parties to, the firſt Treaſonable and de<g ref="char:EOLhyphen"/>ſtructive practices and proceedings, againſt the freedome of Parliament, and peace of the Kingdome, may bee brought to condigne puniſhment, by the due courſe of Law, which is the onely true, and proper Judge in this Caſe; And which your ſelves alſo intimate, in the fore<g ref="char:EOLhyphen"/>going Parallell next but one. And whereas you ſpeake of the judgement of a <hi>Free Parliament,</hi> for my part, I think we have not had a <hi>Free Parliament,</hi> for almoſt theſe ſix
+<pb n="30" facs="tcp:48597:16"/> yeares laſt paſt, nor have at this day, not onely in regard of the aforeſaid Practices and Proceedings, but alſo in regard of your Military, and Minatory Proteſtation and Declaration in the preceding Paralell.</p>
+            <p>And in my obſervation, within theſe ſeaven years laſt paſt, we have had four Parliaments (ſuch as they are.)</p>
+            <p n="1">1. <hi>The Kings Parliament,</hi> aſſembled by his Majeſtyes Writ, Nov. 3. 1640. and enjoying freedome of Vote till Dec. 1641.</p>
+            <p n="2">2. <hi>The Cityes Parliament,</hi> made by their tumults, and governed by their Propoſitions and Petitions, from Dec. 1641. to Dec. 1643.</p>
+            <p n="3">3. <hi>The Scots Parliament,</hi> made and governed, by their League and Covenant, from Dec. 1643. to June 1647. all which time, the Presbyterians had the predominancy; And of this conſtitution alſo was that which you call the Apprentices Parliament.</p>
+            <p n="4">4. <hi>Sir Thomas Fairfax Parliament,</hi> (laſtly,) made and governed by his Army, their Addreſſes, Declarations, &amp; Propoſals; wherein the Independents predominate; and which may be called the Agitators Parliament.</p>
+            <p>Now of all theſe, the firſt onely, was a Legall Parlia<g ref="char:EOLhyphen"/>ment, and all the others were Factious Aſſemblies onely, conſpiring againſt the Government of the Church, and State; and in this conſpiracy, the Presbyterians and the Independents, joyned together, till they had overthrown the King and his Party: which done, they fell in pieces; and firſt, the Presbyterians ſtrived to Out the Indepen<g ref="char:EOLhyphen"/>dents, and to advance their faction in Parliament: And now the Independents take their turne, and labour to Out the Presbyterians, and to advance their Faction in Parlia<g ref="char:EOLhyphen"/>ment; and each goes the very ſame way to Out the o<g ref="char:EOLhyphen"/>ther,
+<pb n="31" facs="tcp:48597:16"/> as both at firſt did, to out the third party; and hence are their latter, ſo ſuitable to their former proceedings: if yet, their latter forcible practiſes may be called violati<g ref="char:EOLhyphen"/>ons of the freedome of Parliament, or not rather mutuall counterworkings of the two factions to undermine and ruine one another.</p>
+            <p>But whether they agree or differ amongſt themſelves, they ſtill purſue their common cauſe againſt the King and Church, and proſecute thoſe Members that oppoſed them from the be<g ref="char:EOLhyphen"/>ginning, and oppreſſe them dayly more and more, and ſo the Legall Parliament lies under the power of a continued force and violence to this day.</p>
+            <p>And that <hi>not only in reſpect of thoſe Members of Parliament, but alſo in reſpect of the King the Head of the Parliament,</hi> whom they drove away by Tumults, together with thoſe Members; and afterwards ſent him thoſe Bills to Paſſe, touching the Biſhops and the Militia, together with other Propoſitions which they had paſſed in their pretended Houſes of Parliament: and took up Armes afterwards to inforce him to ſubmit to their Propo<g ref="char:EOLhyphen"/>ſitions, and to ſigne their Bills: and (being reſolved on their Deſigne) would not accommodate upon any other termes with his Majeſty, but continue and purſue their war, untill they had overthrowne the King, and his Party. Which done, his Majeſty was firſt at Newcaſtle under Cuſtody of the Scots Army, then removed to Holmby, and there guarded by a par<g ref="char:EOLhyphen"/>ty, and now at laſt under the power of Sir <hi>Thomas Fairfax</hi> his Army, and purſued and preſſed continually, with the ſame Bills and Propoſitions as formerly. Which if his Majeſty ſhal <note place="margin">Iames. 4. 1, 2, 3.</note> finally refuſe (as in Honour and conſcience grant them hee cannot) then (which God avert) they are likely to make fur<g ref="char:EOLhyphen"/>ther uſe of their power and force upon his Majeſty, and ſo make up the meaſure of their iniquity. Which done, they wil turne their force upon the people, and ſet up their Governe<g ref="char:EOLhyphen"/>ment over them, and (having now got the whole ſtrength of the Kingdome) compell them to ſubmit to it, and to pay ſuch Taxes as they ſhall impoſe, and undergo ſuch Services, as they
+<pb n="32" facs="tcp:48597:17" rendition="simple:additions"/> ſhall enjoine, and doe whatſoever they ſhall pleaſe to com<g ref="char:EOLhyphen"/>mand, for the ſetling and eſtabliſhing their Government, and ſo make up the meaſure of their tyrany. And an evidence of their intentions, and reſolutions in this kind, wee have in their late proceedings with the Lord Mayor, the Aldermen, and Citizens of London, and that breach made upon the City, what doth it elſe but portend an inundation of ſlavery upon the whole Kingdome?</p>
+            <p>Thus their whole action hath beene forcible, and violent, tumultuary, and military, and deſtructive of Monarchy, and of the freedome of Parliaments, and of the Liberty of the Engliſh Nation: and Monarchy and Liberty are determining toge<g ref="char:EOLhyphen"/>ther, and Poliarchy and Slavery coming in together. <hi>Let our ſtrength be the Law of juſtice.</hi> 2. Wiſ. 11. Read the Chap.</p>
+            <p>But the people hoped when Cornet <hi>Ioyce</hi> and his Company firſt obtayned his Majeſty, and expected that thoſe Champi<g ref="char:EOLhyphen"/>ons of Liberty, and of the freedome of Parliament, <hi>would forthwith have brought his Majeſty to his two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, with freedome, honour, and ſafety, according as they intima<g ref="char:EOLhyphen"/>ted</hi> 
+               <note place="margin">See Par. 11.</note> 
+               <hi>in their Declarations, Repreſentations, Remonſtrances, and other Papers.</hi>
+            </p>
+            <q>So ſpake ye, and ſo do, as they that ſhall be judged by the Law of Liberty. <note place="margin">Ia. 2. 12</note>
+            </q>
+            <p>
+               <hi>And becauſe feares and jealouſies are rife,</hi> by reaſon of your innate and avowed Principles, and extraordinary Military preparations, Let me propoſe <hi>(for the ſatisfaction and ſecurity of the People,</hi> both in point of Regality and Liberty) that in the meane time, till peace bee ſetled, the ſeverall Countyes and Corporations in the Kingdome, may elect and nominate the Commiſſioners for their reſpective Militia's: And that ſuch their choice and nomination, may be free and abſolute, with<g ref="char:EOLhyphen"/>out the interpoſition of the Parliament or Army, or any mem<g ref="char:EOLhyphen"/>ber of either, becauſe they are the parties againſt whom the ſecurity is demanded: And heerby they ſhall be aſſured of your good intentions to the publike, and of your loyalty and fideli<g ref="char:EOLhyphen"/>ty to the King and Kingdome, and of peace indeed by the Treaty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
